@@ -666,7 +666,7 @@ Disease Performance Table
 
 ## 🏠 Executive Dashboard
 
-![Executive Dashboard](SupplyChainScreenshots/Executive%20Dashboard.png)
+![Executive Dashboard](HealthCare Screenshots/Executive%20Dashboard.png)
 
 ----
 
