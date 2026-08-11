@@ -1,4 +1,4 @@
-🏥 Healthcare Analytics — Patient & Hospital Performance Dashboard
+🏥 Healthcare Analytics — Patient & Hospital Performance Dashboard — Patient & Hospital Performance Dashboard
 
 An end-to-end healthcare analytics project built to analyze hospital operations, patient behavior, admissions, billing, revenue, diseases, prescriptions, doctors, diagnostics, beds, wards, and payment performance.
 
