@@ -698,6 +698,7 @@ Disease Performance Table
 ![Hospital Operations](HealthCare%20ScreenShots/Hospital%20Operations.png)
 
 ----
+
 # 📌 Key Business Insights
 
 Surgery generated the highest department-level revenue in the dashboard analysis.
