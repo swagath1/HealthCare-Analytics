@@ -666,24 +666,26 @@ Disease Performance Table
 
 ## 🏠 Executive Dashboard
 
+![Executive Dashboard](SupplyChainScreenshots/Executive%20Dashboard.png)
 
+----
 
 ## 💰 Financial Analysis
 
 
-
+----
 ## 👨‍⚕️ Patient Analysis
 
 
-
+----
 ## 📈 Revenue & Time Intelligence
 
 
-
+----
 ## 🏥 Hospital Operations
 
 
-
+----
 # 📌 Key Business Insights
 
 Surgery generated the highest department-level revenue in the dashboard analysis.
