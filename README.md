@@ -697,7 +697,6 @@ Disease Performance Table
 
 ![Hospital Operations](HealthCare%20ScreenShots/Hospital%20Operations.png)
 
-
 ----
 # 📌 Key Business Insights
 
