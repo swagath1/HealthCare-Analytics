@@ -666,20 +666,20 @@ Disease Performance Table
 
 ## 🏠 Executive Dashboard
 
-![Executive Dashboard](HealthCare%20ScreenShots/Executive%20Dashboard.png)
+![Executive Dashboard](HealthCareScreenShots/Executive%20Dashboard.png)
 
 ----
 
 ## 💰 Financial Analysis
 
-![Financial Analysis](HealthCare%20ScreenShots/Financial%20Analysis.png)
+![Financial Analysis](HealthCareScreenShots/Financial%20Analysis.png)
 
 
 ----
 
 ## 👨‍⚕️ Patient Analysis
 
-![Patient Analysis](HealthCare%20ScreenShots/Patient%20Analysis.png)
+![Patient Analysis](HealthCareScreenShots/Patient%20Analysis.png)
 
 
 
@@ -687,15 +687,14 @@ Disease Performance Table
 
 ## 📈 Revenue & Time Intelligence
 
-![Revenue & Time Intelligence](HealthCare%20ScreenShots/Revenue%20%26%20Time%20Intelligence.png)
-
+![Revenue & Time Intelligence](HealthCareScreenShots/Revenue%20%26%20Time%20Intelligence.png)
 
 
 ----
 
 ## 🏥 Hospital Operations
 
-![Hospital Operations](HealthCare%20ScreenShots/Hospital%20Operations.png)
+![Hospital Operations](HealthCareScreenShots/Hospital%20Operations.png)
 
 ----
 
